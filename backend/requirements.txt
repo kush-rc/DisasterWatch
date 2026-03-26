@@ -1,0 +1,17 @@
+fastapi[all]
+uvicorn[standard]
+python-dotenv
+requests
+numpy
+pandas
+geopandas
+rasterio
+shapely
+sgp4
+torch
+torchvision
+xgboost
+scikit-learn
+sentinelsat
+aiohttp
+feedparser
